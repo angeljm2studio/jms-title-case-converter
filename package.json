@@ -1,0 +1,23 @@
+{
+  "name": "jms-title-case-converter",
+  "version": "1.0.0",
+  "description": " Capitalizes the first letter of every word in a sentence",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeljm2studio/jms-title-case-converter.git"
+  },
+  "keywords": [
+    "title-case",
+    "converter"
+  ],
+  "author": "angeljm2studio <angeljm2studio@gmail.com>",
+  "license": " MIT",
+  "bugs": {
+    "url": "https://github.com/angeljm2studio/jms-title-case-converter/issues"
+  },
+  "homepage": "https://github.com/angeljm2studio/jms-title-case-converter#readme"
+}
